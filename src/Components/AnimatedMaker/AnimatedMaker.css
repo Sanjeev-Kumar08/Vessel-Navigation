@@ -1,0 +1,17 @@
+.animated-icon .icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform-origin: bottom center; 
+
+}
+
+.animated-icon img {
+  width: 20px; 
+  height: 90px; 
+}
+
+.coordinate{
+  font-weight: 700;
+}
+

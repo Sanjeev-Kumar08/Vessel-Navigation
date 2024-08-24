@@ -1,0 +1,10 @@
+.popUpText{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.mapContainer{
+    height: 75vh;
+    width: 80%;
+    border-radius: 5px;
+}
